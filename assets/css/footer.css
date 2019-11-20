@@ -4,7 +4,6 @@
 .social-icons li {
   display:inline-block;
   list-style-type:none;
-  color: gray;
   }
 .social-icons li a {
   border-bottom: none;
@@ -17,7 +16,6 @@
 
 .social-footer {
   padding: 1rem;
-  background: gray;
   display: flex;
   align-items: center;
   justify-content: space-between;
