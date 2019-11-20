@@ -14,3 +14,10 @@
   height:70px;
   margin-right: 20px;
 }
+
+.social-footer {
+  padding: 1rem;
+  background: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
